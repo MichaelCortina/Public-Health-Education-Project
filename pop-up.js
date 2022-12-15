@@ -1,3 +1,3 @@
 function returnHome() {
-    window.location.replace("home-page.html");
+    window.location.replace("index.html");
 }
