@@ -10,6 +10,7 @@ body {
     width: 45vw;
     height: 100vh;
     float: right;
+    padding-top: 0.5%;
     background-color: black;
     color:whitesmoke;
     font-family: 'Times New Roman', Times, serif;
@@ -31,6 +32,7 @@ body {
     height: 100vh;
     object-fit: cover;
     object-position: 0% 50%;
+    padding-top: 0.5%;
 }
 
 #image-track {
@@ -45,7 +47,7 @@ body {
 /* Works on Firefox */
 * {
     scrollbar-width: thin;
-    scrollbar-color: black whitesmoke;
+    scrollbar-color: whitesmoke black;
   }
   
   /* Works on Chrome, Edge, and Safari */
